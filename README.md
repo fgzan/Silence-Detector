@@ -1,4 +1,4 @@
-# Detector de Silencio — versión notificación push (sin mail)
+# Detector de Silencio — vía notificación push
 
 Versión reducida de la app: monitorea una entrada o salida de audio y, si
 detecta silencio sostenido, envía una **notificación push por ntfy.sh**
